@@ -1,8 +1,9 @@
-#Sales and Market Analysis Project
-Overview
+***Sales and Market Analysis Project***
+
+***Overview***
 This repository contains a collection of SQL scripts and Excel files used for sales forecasting, product performance analysis, and regional market insights. The project aims to analyze sales data across different divisions and regions, forecast trends, and provide actionable insights for decision-making. The data involves various fiscal periods, product categories, and geographical regions.
 
-#Project Structure
+Project Structure
 
 Forecasting and Sales Estimation:
 
